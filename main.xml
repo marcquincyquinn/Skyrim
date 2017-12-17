@@ -52,3 +52,8 @@
       <title>Reddit Top 250 (2017 Edition)</title>
       <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
     </dir>
+
+    <dir>
+      <title>Search Trakt</title>
+      <trakt>search</trakt>
+    </dir>
